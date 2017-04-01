@@ -19,5 +19,9 @@ function draw() {
 	if(x<165) {ellipse(180,50,15,15)}
 	
 	//arc(x,y,80,.5,5.6,PIE)
+
+		
+	x=x+1
+	y=y+1
 }
 
