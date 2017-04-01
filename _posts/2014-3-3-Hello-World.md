@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Let's get cracking
+title: hello, welcome to my site
 ---
 
-Here's a p5 example
+pacman!
 
 <iframe data-src='/p5/first' style='height: 400px'></iframe>
